@@ -1,0 +1,20 @@
+#!/bin/bash
+
+clear
+echo -e "$━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
+echo -e "          SC VPS BY ETIL        \E[0m"
+echo -e "$━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
+echo -e "# For Debian 10 64 bit                          #"
+echo -e "# For Ubuntu 18.04 & Ubuntu 20.04 64 bit        #"
+echo -e "# For VPS with KVM and VMWare virtualization    #"
+echo -e "# Build Up By ETIL GURIH                      #"
+echo -e "$━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
+echo -e "           THANKS TO           \E[0m"
+echo -e "$━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
+echo -e "# Allah SWT                                     #"
+echo -e "# My Family                                     #"
+echo -e "# BLITAR                                        #"
+echo -e "# ARYA 087721815317                                          #"
+echo -e "$━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
+echo -e "          ETIL GURIH           \E[0m"
+echo -e "$━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
