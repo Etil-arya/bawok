@@ -169,7 +169,7 @@ echo -e ""
  echo -e  " ${GREEN} ║\e[0m21. Info Auto Script $gl   "
  echo -e  " ${GREEN} ║\e[0m22. Exit  $gl "
  echo -e  " ${GREEN} ╠═════════════════════════════════════════════════╣"
- echo -e  " ${GREEN} ║${cyan}  SCRIPT BY ARYA BLITAR                    ${GREEN}║"
+ echo -e  " ${GREEN} ║${cyan}  SCRIPT BY ARYA BLITAR                          ${GREEN}║"
  echo -e  " ${GREEN} ╚═════════════════════════════════════════════════╝\e[0m"
 echo -e  ""
 read -p " Select From Options [1-22 or x] : " menu
