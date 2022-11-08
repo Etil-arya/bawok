@@ -114,7 +114,7 @@ clear
 Domen="$(cat /etc/xray/domain)"
 echo ""
 echo -e "${GREEN}══════════════════════════════════════════════════════════${NC}" | lolcat
-echo -e "                 • SERVER INFO •                 "
+echo -e "                 • SERVER INFO •                 " | lolcat
 echo -e "${GREEN}══════════════════════════════════════════════════════════${NC}" | lolcat
 echo -e "${cyan}>${NC}\e[34m CPU Model              \e[0m: $cname"
 echo -e "${cyan}>${NC}\e[34m CPU Frequency          \e[0m: $freq MHz"
